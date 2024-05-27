@@ -102,3 +102,9 @@ A continuacion, un ejemplo sencillo para una vista HTML con javascript
 </body>
 </html>
 ````
+
+VERSIONES UTILIZADAS
+
+*Spring boot 3.2.5
+
+*JavaSE-17
