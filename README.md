@@ -1,4 +1,5 @@
 INTRUCCIONES DE USO
+
 La api recibe parametros tipo clave:valor en formato JSON a traves del metodo "POST", puede recibir hasta 4 datos (de momento), posteriormente devuelve una cadena de texto en Base64 la que cual podras convertir a una imagen PNG 
 
 A continuacion se mostrara un ejemplo sencillo de como debe de quedar a la hora de enviar los datos
