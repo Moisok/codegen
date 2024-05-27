@@ -15,7 +15,7 @@ Actualmente la api se encuentra alojada en la siguiente direccion:
 https://codegen-vmyx.onrender.com
 
 NOTA: Se esta utilizando un servicio gratuito de alojamiento, no se recomienda su uso para uso profesional
-es porsible que las solicitudes tarden en dar la respuesta.
+es posible que las solicitudes tarden en dar la respuesta.
 
 Las llamadas son las siguientes:
 
